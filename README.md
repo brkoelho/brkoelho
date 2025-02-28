@@ -1,8 +1,4 @@
-### Bem vindo! Meu nome é Bruno Rodrigues Coelho!
-
-<p align="left">
-  Linguagem: <strong>Golang</strong>
-</p>
+### Hello! Bruno R. Coelho!
 
 <p align="left">
 <strong>Contatos:</strong>

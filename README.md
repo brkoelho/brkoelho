@@ -1,5 +1,3 @@
-### Bruno Rodrigues Coelho
-
 <p align="left">
   <a href="https://www.instagram.com/brkoelho/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-65EAA7?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/dev_steph/"/>

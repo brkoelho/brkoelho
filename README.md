@@ -1,9 +1,3 @@
-<p align="left">
-  <a href="https://www.instagram.com/brkoelho/">
-    <img src="https://img.shields.io/badge/-Instagram-667C4D?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>  
-  <br>
-  <a href="https://www.linkedin.com/in/brkoelho/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=verizon&logoColor=white"/>
-  </a>
-</p>
+## Hello!
+
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/brkoelho/) [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/brkoelho/)
